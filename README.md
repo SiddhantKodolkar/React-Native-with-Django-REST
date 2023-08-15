@@ -1,4 +1,4 @@
-# React-Native-with-Django-REST
+# React Native with Django REST Framework
 Integrate your React Native Mobile App frontend with Django Rest Framework backend with REST APIs
 
 
