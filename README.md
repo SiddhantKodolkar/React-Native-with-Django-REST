@@ -31,6 +31,7 @@ Ensure that your firewall and security settings are configured to allow incoming
 ```bash
 npx create-expo-app frontend
 ```
+Download the Expo Go app and scan the QR code 
 ### Install axios for fetching data from Django REST
 ```bash
 npm install axios
