@@ -14,7 +14,9 @@ pip install django-cors-headers
 <img width="440" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/13158008-6b38-47dc-aee6-2af1863220a4">
 
 ## Configure CORS settings in settings.py. 
-Allow all origins and methods,type ipconfig in command prompt and put the IPV4 address from under the 'Wireless LAN adapter Wi-Fi' section to allowed hosts
+Allow all origins and methods
+
+### Type ipconfig in command prompt and put the IPV4 address from under the 'Wireless LAN adapter Wi-Fi' section to allowed hosts
 
 
 <img width="281" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/8b683a74-556b-451d-9abe-e2f575bbb064">
@@ -36,7 +38,10 @@ Download the Expo Go app and scan the QR code
 ```bash
 npm install axios
 ```
+
 ### Type ipconfig in command prompt and put the IPV4 address from under the 'Wireless LAN adapter Wi-Fi' section with port 8000 as the base URL with endpoint '/students/' to get the list of all students
+
+
 <img width="372" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/897c4b50-e11b-4998-9c4e-12db32b61c78">
 
 ### Display the list using the map() function
