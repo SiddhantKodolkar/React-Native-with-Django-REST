@@ -14,7 +14,7 @@ pip install django-cors-headers
 <img width="440" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/13158008-6b38-47dc-aee6-2af1863220a4">
 
 ## Configure CORS settings in settings.py. 
-Allow all origins and methods,type ipconfig in cmd and put the IPV4 address from the Wireless LAN adapter Wi-Fi to allowed hosts
+Allow all origins and methods,type ipconfig in command prompt and put the IPV4 address from under the 'Wireless LAN adapter Wi-Fi' section to allowed hosts
 
 
 <img width="281" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/8b683a74-556b-451d-9abe-e2f575bbb064">
@@ -35,12 +35,12 @@ npx create-expo-app frontend
 ```bash
 npm install axios
 ```
-### Put the IPV4 address from the Wireless LAN adapter Wi-Fi with port 8000 as the base URL with endpoint '/students/' to get the list of all students
+### Type ipconfig in command prompt and put the IPV4 address from under the 'Wireless LAN adapter Wi-Fi' section with port 8000 as the base URL with endpoint '/students/' to get the list of all students
 <img width="372" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/897c4b50-e11b-4998-9c4e-12db32b61c78">
 
 ### Display the list using the map() function
 <img width="307" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/a5b526dd-ab0d-4dc0-a95a-3065e420bb09">
 
-### Output on device 
+### Output on mobile device 
 <img height="707" width="307" alt="image" src="https://github.com/SiddhantKodolkar/React-Native-with-Django-REST/assets/111975032/84a9e732-5491-41e5-8d12-3e2246c13f3c">
 
